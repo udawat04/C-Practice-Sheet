@@ -17,7 +17,7 @@ int main()
     scanf("%d", &b);
     printf("Enter value of c : ");
     scanf("%d", &c);
-    discriminate = b * b - 4 * a * c;
+    discriminate = (b * b) - (4 * (a) * (c));
 
     if (discriminate > 0)
     {
